@@ -3,7 +3,7 @@
 int main()
 {
     printf("Hello World!\n");
-    printf("This is feature_a branch.\n");
+    printf("This is master branch.\n");
 
     return 0;
 }
