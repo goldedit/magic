@@ -11,6 +11,8 @@ int main()
 
     printf("Thank you! \n");
 
+    printf("Test for commit \n");
+
     return 0;
 }
 
