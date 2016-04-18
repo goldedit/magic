@@ -3,7 +3,8 @@
 int main()
 {
     int i;
-    for (i=0; i<10; i++)
+
+    for (i=0; i<20; i++)
     {
         printf("Hello World! [%d]\n", i);
     }
