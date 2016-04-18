@@ -9,11 +9,11 @@ int main()
         printf("Hello World! [%d]\n", i);
     }
 
-    printf("Thank you! \n");
-
     printf("Test for commit 1\n");
 
     printf("Test for commit 2\n");
+
+    printf("Test for commit 3\n");
 
     return 0;
 }
