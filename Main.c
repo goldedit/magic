@@ -13,7 +13,7 @@ int main()
 
     printf("Test for commit 2\n");
 
-    printf("Test for commit 3\n");
+    printf("Test for commit 3 modify same line\n");
 
     return 0;
 }
