@@ -17,6 +17,8 @@ int main()
 
     printf("Test for commit 4\n");
 
+    printf("Feature b branch\n");
+
     return 0;
 }
 
