@@ -16,6 +16,8 @@ int main()
     printf("Test for commit 3 modify same line\n");
 
     printf("Test for commit 4\n");
+    
+    printf("Test for commit 5\n");
 
     return 0;
 }
